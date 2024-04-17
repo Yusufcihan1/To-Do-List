@@ -1,0 +1,13 @@
+.card-header{
+    background-color: orange;
+    display: flex;
+    justify-content: center;
+}
+img{
+    background-color: white;
+    
+}
+.input-1{
+    background-color: orange;
+}
+
